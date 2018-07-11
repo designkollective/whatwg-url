@@ -23,7 +23,7 @@
     "jsdom": "^11.8.0",
     "recast": "~0.14.7",
     "request": "^2.85.0",
-    "webidl2js": "^7.4.0"
+    "webidl2js": "^9.0"
   },
   "scripts": {
     "build": "node scripts/transform.js && node scripts/convert-idl.js",
