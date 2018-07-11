@@ -6,10 +6,13 @@ package-lock.json
 # project specific
 coverage/
 test/web-platform-tests/
-lib/URL.js
-lib/URLSearchParams.js
-lib/url-state-machine.js
-lib/urlencoded.js
-lib/utils.js
+
+# Check these in for now in leu of releasing our own version to npm.
+# lib/URL.js
+# lib/URLSearchParams.js
+# lib/url-state-machine.js
+# lib/urlencoded.js
+# lib/utils.js
+
 live-viewer/whatwg-url.js
 out/
